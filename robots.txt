@@ -1,0 +1,9 @@
+Sitemap: https://engverbs.com/sitemap.xml
+
+User-agent: *
+Disallow: /?
+Disallow: /*?*
+Disallow: *?s=
+Disallow: *&s=
+Disallow: *?page*
+Disallow: /search*
